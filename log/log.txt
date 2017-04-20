@@ -1,0 +1,12 @@
+2017-04-20 07:53:16.353 [main] INFO  by.epam.parsing.reader.InputFileDataReader - Input string is empty. Using default.
+2017-04-20 07:53:16.358 [main] INFO  by.epam.parsing.parser.ParagraphParser - Paragraph parsing done.
+2017-04-20 07:53:16.359 [main] INFO  by.epam.parsing.parser.SentenceParser - Sentence parsing done.
+2017-04-20 07:53:16.359 [main] INFO  by.epam.parsing.parser.TokenParser - Token parsing done.
+2017-04-20 07:53:16.359 [main] INFO  by.epam.parsing.parser.TokenParser - Token parsing done.
+2017-04-20 07:53:16.360 [main] INFO  by.epam.parsing.parser.SentenceParser - Sentence parsing done.
+2017-04-20 07:53:16.360 [main] INFO  by.epam.parsing.parser.TokenParser - Token parsing done.
+2017-04-20 07:53:16.360 [main] INFO  by.epam.parsing.parser.TokenParser - Token parsing done.
+2017-04-20 07:53:16.360 [main] INFO  by.epam.parsing.parser.SentenceParser - Sentence parsing done.
+2017-04-20 07:53:16.360 [main] INFO  by.epam.parsing.parser.TokenParser - Token parsing done.
+2017-04-20 07:53:16.360 [main] INFO  by.epam.parsing.parser.SentenceParser - Sentence parsing done.
+2017-04-20 07:53:16.360 [main] INFO  by.epam.parsing.parser.TokenParser - Token parsing done.
